@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+}
+
+html{
+    font-size: 16px;
+}
+body{
+    background-image: url(../imagenes/fondo.jpg);
+    background-size:cover;
+    background-attachment: fixed;
+    
+}
+
+.seccion{
+    
+    
+}
+    .parte1{
+        
+    }
+        .titulo1{
+            color:#edeff1;            
+            font-family: 'Architects';
+            font-size: 1.3em;
+            background-color: darkred;
+            opacity: 0.6;
+            padding: 15px 155px;
+        }
+        .parrafo1{
+            color:#DAB93D;
+            font-family: 'Architects';
+        }
+    
+   
+
+
+@font-face {
+    font-family: "Architects" ;
+    src: url(fuentes/DancingScript-VariableFont_wght.ttf);
+}
+
